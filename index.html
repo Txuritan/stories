@@ -1,0 +1,24 @@
+---
+title: Home
+layout: default
+---
+<table class="u-full-width">
+    <thead>
+        <tr>
+            <th>Tile</th>
+            <th>Summory</th>
+            <th>Chapters</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for story in site.data.stories %}
+        <tr>
+            <td>
+                <a href="https://txuritan.github.io/stories/{{ story.link }}">{{ story.name }}</a>
+            </td>
+            <td>{{ story.from }}<br/>{{ story.summory }}<br/>{{ story.tags }}</td>
+            <td>{{ story.chapters }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
