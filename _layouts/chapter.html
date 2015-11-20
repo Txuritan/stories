@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<br/>
+<br/>
+<br/>
+<div class="content-nav">
 <hr/>
     <strong>{{ page.story-name }}</strong>
     <p>{{ page.story-summory }}</p>
@@ -9,8 +13,9 @@ layout: default
 {{ content }}
 
 <hr/>
-    <a class="button u-pull-left" href="{{ page.prev }}">Previous</a>
-    <a class="button u-pull-right" href="{{ page.next }}">Next</a>
+<a class="button u-pull-left" href="{{ page.prev }}">Previous</a>
+<a class="button u-pull-right" href="{{ page.next }}">Next</a>
+<br/>
 <hr/>
 
 <div id="disqus_thread"></div>
@@ -27,5 +32,5 @@ layout: default
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
-</noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
