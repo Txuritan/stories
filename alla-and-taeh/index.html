@@ -15,12 +15,14 @@ layout: default
         </tr>
     </thead>
     <tbody>
-        {% for aat in site.data.aat-chapters %}
+        {% for aat in site.data.aat %}
         <tr>
             <td>
                 {{ aat.nun }}
             </td>
-            <td><a href="/story/alla-and-taeh/{{ aat.url }}.html"{{ aat.title }}</td>
+            <td>
+                <a href="/story/alla-and-taeh/{{ aat.url }}.html">{{ aat.title }}</a>
+            </td>
             <td>
                 <span class="disqus-comment-count" data-disqus-identifier="{{ aat.id }}"></span>
             </td>
