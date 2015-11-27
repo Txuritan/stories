@@ -1,0 +1,31 @@
+---
+title: Home
+layout: default
+---
+<br/>
+<br/>
+<br/>
+<div class="content-nav">
+<table class="u-full-width">
+    <thead>
+        <tr>
+            <th>Chapter</th>
+            <th>Title</th>
+            <th>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for aat in site.data.aat-chapters %}
+        <tr>
+            <td>
+                {{ aat.nun }}
+            </td>
+            <td><a href="/story/alla-and-taeh/{{ aat.url }}.html"{{ aat.title }}</td>
+            <td>
+                <span class="disqus-comment-count" data-disqus-identifier="{{ aat.id }}"></span>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+</div>
