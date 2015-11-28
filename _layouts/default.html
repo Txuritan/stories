@@ -8,7 +8,12 @@
     <meta name="author" content="Ian 'Txuritan' Cronkright">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/story/css/normalize.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/skeleton.css">
+    <link rel="stylesheet" href="/css/component.css" />
+	<link rel="icon" type="image/png" href="/img/favicon.png">
+	
+	<link rel="stylesheet" href="/story/css/normalize.css">
     <link rel="stylesheet" href="/story/css/skeleton.css">
     <link rel="stylesheet" href="/story/css/component.css" />
     <link rel="icon" type="image/png" href="/story/img/favicon.png">
@@ -19,7 +24,10 @@
         {% include nav.html %}
         {{ content }}
     </div>
-    <script src="/story/js/classie.js"></script>
+    <script src="/js/classie.js"></script>
+    <script src="/js/gnmenu.js"></script>
+	
+	<script src="/story/js/classie.js"></script>
     <script src="/story/js/gnmenu.js"></script>
     <script>
         new gnMenu( document.getElementById( 'gn-menu' ) );
