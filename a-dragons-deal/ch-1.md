@@ -5,7 +5,7 @@ disqus: a-dragons-deal-ch-1
 story-name: A Dragon's Deal
 story-summory: Hicca makes a deal and now she has to kill the Red Death or she will turn into a dragon. X-Jinxa-X's A Dragons Deal. Thx X-Jinxa-X for giving me this story. Female Hiccup.
 prev: 
-next: ch-2.html
+next: ch-2
 ---
 ## Chapter 1: HELP! ##
 
