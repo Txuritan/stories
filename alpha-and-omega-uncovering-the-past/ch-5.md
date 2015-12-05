@@ -4,8 +4,8 @@ layout: chapter
 disqus: alpha-and-omega-uncovering-the-past-ch-5
 story-name: Alpha And Omega&#58; Uncovering The Past
 story-summory: Kate lost her memory and the Western Pack has to get her back but will she come back after she meets Caileb the old Southern Pack Leader?
-prev: ch-4.html
-next: ch-6.html
+prev: ch-4
+next: ch-6
 ---
 
 ## Chapter 5: News ##
