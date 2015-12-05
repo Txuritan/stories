@@ -4,7 +4,7 @@ layout: chapter
 disqus: chelsea-and-columbus-ch-2
 story-name: Chelsea and Columbus
 story-summory: A girl in Zombieland is out looking for a friend, or someone who will talk to her. A face that doesn't have blood on it even. But then, she finds Columbus. Story not mine its a friends on Deviantart named campbellsoup1549.
-prev: ch-1.html
+prev: ch-1
 next: 
 ---
 
