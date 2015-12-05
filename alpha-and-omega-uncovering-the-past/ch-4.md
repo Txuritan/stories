@@ -4,8 +4,8 @@ layout: chapter
 disqus: alpha-and-omega-uncovering-the-past-ch-4
 story-name: Alpha And Omega&#58; Uncovering The Past
 story-summory: Kate lost her memory and the Western Pack has to get her back but will she come back after she meets Caileb the old Southern Pack Leader?
-prev: ch-3.html
-next: ch-5.html
+prev: ch-3
+next: ch-5
 ---
 
 ## Chapter 4: On The Run ##
