@@ -5,7 +5,7 @@ disqus: alla-and-taeh-ch-1
 story-name: Alla and Taeh
 story-summory: A loli cat and a fox scientist, what could go wrong?
 prev: 
-next: ch-2.html
+next: ch-2
 ---
 
 **Taeh**: "Both of my tails are but my tongue ain't"
