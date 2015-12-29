@@ -36,8 +36,15 @@
 - name: "Random Ideas"
   link: "random-ideas/ch-1"
   from: "Orginal"
-  summory: "[UPDATE SOON] Just lots of random ideas that I get from time to time."
+  summory: "[JUST TEMP] Just lots of random ideas that I get from time to time."
   tags: "Rated: M - Romance/Adventure/Mystery/Hurt/Comfort"
+  chapters: "0"
+
+- name: "Sisters In All But Blood"
+  link: "sisters-in-all-but-blood/ch-1"
+  from: "Alice Madness Returns, Bioshock"
+  summory: "[WRITING NOW] Elizabeth stumbles upon her rift ability with the help of a mysterious cat and opens a portal to Wonderland."
+  tags: "Rated: T - Adventure/Mystery/Hurt/Comfort - Alice, Elizabeth"
   chapters: "0"
 
 - name: "The End"
