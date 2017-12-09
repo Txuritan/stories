@@ -14,7 +14,9 @@ layout: default
 
 <hr/>
 <a class="button u-pull-left" href="../{{ page.prev }}">Previous</a>
+{% if page.next == blank %}
 <a class="button u-pull-right" href="../{{ page.next }}">Next</a>
+{% endif %}
 <br/>
 <hr/>
 
